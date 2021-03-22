@@ -6,7 +6,7 @@ In this project I am helping Dana, a Date Reporting Journalist who is working on
 
 For this challenge I am tasked with refactoring the code for both my html file and my app.js file. This refactoring is designed handle user inputs for additional search criteria that will make for a more interactive user interphase.
 
-![](static/image/site.png)
+![](static/images/site.png)
 
 ## Results
 
