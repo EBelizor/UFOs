@@ -19,4 +19,6 @@ We are also able to search based on multiple criteria, not just one. In the imag
 ![](static/images/texas_light.png)
 
 ## Summary
-One of the potential challenges to the current format of this code is that it is not designed to allow variability in the search filters. For example, if we were to search for the city in texas known as Fort Worth, with the text as follows "fortworth" the results of the search would not appear. 
+One of the potential challenges to the current format of this code is that it is not designed to allow variability in the search filters. For example, if we were to search for the city in Texas known as Fort Worth, with the text as follows "fortworth" the results of the search would not appear. I would recommend refactoring the code to handle variablility in the results that would recognize different forms of code. With a method like that of pythons regular expressions, we would be able to handle variations in the text inputs. 
+
+For now we can just be grateful that we have a functional website.
